@@ -1,0 +1,177 @@
+body{
+
+  background-color: #CFD2CF;
+
+  padding: 0;
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+
+  text-align: center;
+  font-size: 8rem;
+  padding-top: 130px;
+  padding-bottom: 150px;
+  margin: 0;
+}
+
+.name{
+
+  text-align: left;
+  color: rgb(100, 103, 106);
+  font-family: 'Archivo ', sans-serif;
+  font-weight: bold;
+}
+
+h3{
+
+/* font-family: 'Alfa Slab One', cursive; */
+font-family: 'Poppins', sans-serif;
+font-weight: bolder;
+
+
+}
+h4{
+
+  text-align: right;
+  
+  color: rgb(100, 103, 106);
+  padding: 0;
+  margin: 0;
+  
+  
+
+}
+ #ist-page{
+
+  padding: 2% 3%;
+}
+
+#second-page{
+
+  padding: 2% 12%;
+}
+
+p{
+  font-family: 'Alata', sans-serif;
+  max-width: 60ch;
+ display: block;
+ padding: 0;
+ margin: 0;
+ color: rgb(85, 83, 83);
+}
+h2{
+color:#BF9270;
+  font-size: 3rem;
+  
+  font-family: 'Poppins', sans-serif;
+  
+
+}
+
+img{
+
+
+  
+  width: 300px;
+  height: 300px;
+}
+
+.skill-img{
+width: 80px;
+height: 80px;
+padding: 2px;
+margin-right: 5px;
+}
+.skil-dicrip{
+
+  text-align: left;
+  color: rgb(165, 172, 179);
+  display: inline;
+}
+.skilfull{
+display: inline;
+width: 200px;
+height: 100px;
+  margin-right: 100px;
+  margin-bottom: 30px;
+}
+.five{
+  width: 100px;
+  height: 100px;
+}
+
+.texty{
+
+  margin-top: 50px;
+}
+
+.imagify{
+  
+text-align: center;
+  
+}
+
+#skilly{
+
+  padding: 2% 12%;
+
+
+}
+
+.skil{
+  padding-bottom: 50px;
+  
+}
+
+#education{
+
+  padding: 5% 12%;
+}
+#last-page{
+
+  padding: 2% 12%;
+
+}
+
+.justy{
+  padding-bottom: 40px;
+}
+h5{
+  padding-bottom: 60px;
+  font-family: 'Alata', sans-serif;
+  color: rgb(129, 127, 127);
+}
+.icons{
+color: black;
+  padding-right: 5px;
+}
+.footy{
+  text-align: center;
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+.footer{
+  padding:4% 16% ;
+
+}
+
+.liny{
+  margin: 5px;
+}
+
+@media (max-width : 991px){
+
+  h1{
+
+    font-size:6rem;
+
+  }
+
+  img{
+height: 250px;
+width: 250px;
+  }
+}
